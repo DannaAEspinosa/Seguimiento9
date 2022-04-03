@@ -2,7 +2,8 @@ package main;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Diana Balanta
+//Danna Espinosa
 public class NewYear {
 
 	public static void main(String[] args) {
@@ -31,9 +32,7 @@ public class NewYear {
 		//System.out.println(rest);
 
 		int sum = 0;
-		int sum2 = 0;
 		int x = 0;
-		int totalsum = 0;
 		boolean flag = false;
 		do {
 

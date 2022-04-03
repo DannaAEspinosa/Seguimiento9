@@ -2,7 +2,8 @@ package main;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Diana Balanta
+//Danna Espinosa
 public class Average {
 	private static Scanner sc;
 	public static void main(String[] args) {

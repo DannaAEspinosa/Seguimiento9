@@ -2,7 +2,8 @@ package main;
 
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//Diana Balanta
+//Danna Espinosa
 public class Polynomial {
 
 	private static Scanner sc;

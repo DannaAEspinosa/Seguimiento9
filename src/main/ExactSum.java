@@ -7,7 +7,8 @@ import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
-
+//Diana Balanta
+//Danna Espinosa
 public class ExactSum {
 
 	public static void main(String[] args) throws IOException {
